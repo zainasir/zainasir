@@ -12,7 +12,9 @@ I am an undergraduate Computer Science major and Honors student at Binghamton Un
 - <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/python.svg" height=16> Python
 
 #### <img src="https://raw.githubusercontent.com/zainasir/zainasir/6543f544ba02c466a4a459a2966d8a0c39fc4466/project-management.svg" height=20> My Latest Projects:
-- [HoldEmPoker](https://github.com/zainasir/HoldEmPoker): A program that evaluates the winner of a 2-player Texas Holdem' poker game.
+- [Personal Portfolio](https://www.zainnasir.com/): Single-page personal portfolio website built using React, Node JS, and Sanity.
+- [Pathfinding Visualizer](https://github.com/zainasir/PathfindingVisualizer): A Java program developed to visualize A* pathfinding algorithm in real-time.
+- [Shopify Ecommerce Store](https://tentoss.com/): A full-stack e-commerce website built using Shopify platform.
 - [Titanic Classification](https://github.com/zainasir/ClassificationTitanic): Data visualization and classification models on Titanic passengers.
 
 #### <img src="https://raw.githubusercontent.com/zainasir/zainasir/6aa9d07103044e7e48ee377715bcb2998667f253/contact.svg" height=20> Reach out to me:
