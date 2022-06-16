@@ -1,10 +1,7 @@
 # Hello, I'm **[Zain Nasir](https://www.zainnasir.com/)** 👋
 <img src="https://raw.githubusercontent.com/zainasir/zainasir/main/header.png">
 
-I am an undergraduate Computer Science major and Honors student at Binghamton University in Upstate New York. As someone who has experienced everything from the bustling streets of <img src="https://raw.githubusercontent.com/zainasir/zainasir/147873cb75796da99b6f5d81405df5ca3150b97e/pakistan.svg" height=18> Pakistan to the famous <img src="https://raw.githubusercontent.com/zainasir/zainasir/147873cb75796da99b6f5d81405df5ca3150b97e/texas.svg" height=18> Texan BBQ and the unforgiving Binghamton weather, I now spend my days trying to master <img src="https://raw.githubusercontent.com/zainasir/zainasir/67f870fedb7955d5987260703199cd868a7ceba0/coding.svg" height=18> machine learning models.
-
- - I am currently working as an Undergraduate Research Assistant for [David Lu](http://www.cs.binghamton.edu/~davidl/) at Binghamton University
- - I am currently learning energy accounting in multithreaded java applications
+I am an undergraduate Computer Science major and Honors student at Binghamton University in Upstate New York, currently working as a Web Development Intern for Advertising Specialty Institute. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
 
 #### <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/coding%20(1).svg" height=20> I Code In:
 - <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/java.svg" height=16> Java
