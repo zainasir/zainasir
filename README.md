@@ -1,7 +1,7 @@
 # Hello, I'm **[Zain Nasir](https://www.zainnasir.com/)** 👋
 <img src="https://raw.githubusercontent.com/zainasir/zainasir/main/header.png">
 
-I am an undergraduate Computer Science major and Honors student at Binghamton University, currently working as a Web Development Intern for Advertising Specialty Institute. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
+I am an undergraduate Computer Science major and Honors student at Binghamton University, currently looking for entry-level software development roles. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
 
 #### <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/coding%20(1).svg" height=20> I Code In:
 - <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/java.svg" height=16> Java
