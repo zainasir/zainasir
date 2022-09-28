@@ -1,5 +1,4 @@
 # Hello, I'm **[Zain Nasir](https://www.zainnasir.com/)** 👋
-<img src="https://raw.githubusercontent.com/zainasir/zainasir/main/header.png">
 
 I am an undergraduate Computer Science major and Honors student at Binghamton University, currently looking for entry-level software development roles. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
 
