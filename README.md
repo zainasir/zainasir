@@ -1,15 +1,12 @@
 # Hello, I'm **[Zain Nasir](https://www.zainnasir.com/)** 👋
 
-I am an undergraduate Computer Science major and Honors student at Binghamton University, currently looking for entry-level software development roles. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
-
-#### <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/coding%20(1).svg" height=20> I Code In:
-- <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/java.svg" height=16> Java
-- <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/c.svg" height=16> C++
-- <img src="https://raw.githubusercontent.com/zainasir/zainasir/4af601b55ff5f848df7c30d5c6d87df951f1ac5e/python.svg" height=16> Python
+I am a software developer currently completing my Masters in CS (AI Track) from Binghamton University. My expertise encompass machine learning and deep learning.. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
 
 #### <img src="https://raw.githubusercontent.com/zainasir/zainasir/6543f544ba02c466a4a459a2966d8a0c39fc4466/project-management.svg" height=20> My Latest Projects:
-- [Personal Portfolio](https://www.zainnasir.com/): Single-page personal portfolio website built using React, Node JS, and Sanity.
+- [Spotted Lantern Fly Detection through Drones](https://github.com/boubinjg/SpottedLanternFly): The aim of this project was to enable drones to be able to detect Spotted Lantern Flys through object detection.
+- [Map Navigation through Deep Q-Learning](https://github.com/zainasir/FrozenLakeDQN): An ongoing research project with the aim of exploring deep q-learning as a tool to navigate dynamic maps.
 - [Pathfinding Visualizer](https://github.com/zainasir/PathfindingVisualizer): A Java program developed to visualize A* pathfinding algorithm in real-time.
+- [Personal Portfolio](https://www.zainnasir.com/): Single-page personal portfolio website built using React, Node JS, and Sanity.
 - [Shopify Ecommerce Store](https://tentoss.com/): A full-stack e-commerce website built using Shopify platform.
 - [Titanic Classification](https://github.com/zainasir/ClassificationTitanic): Data visualization and classification models on Titanic passengers.
 
