@@ -16,4 +16,4 @@ I am a software developer currently completing my Masters in CS (AI Track) from 
 - <img src="https://raw.githubusercontent.com/zainasir/zainasir/695c0d772c0629fa979c67437714fa39d3c74e50/suitcase.svg" height=16> [Portfolio](https://www.zainnasir.com/)
 - <img src="https://raw.githubusercontent.com/zainasir/zainasir/695c0d772c0629fa979c67437714fa39d3c74e50/gmail.svg" height=16> <a href="mailto:zainasir1999@gmail.com">Email</a>
 
-#### <img src="https://raw.githubusercontent.com/zainasir/zainasir/695c0d772c0629fa979c67437714fa39d3c74e50/writing.svg" height=16> Check out my [Blog](https://medium.com/@zainasir)
+#### <img src="https://raw.githubusercontent.com/zainasir/zainasir/695c0d772c0629fa979c67437714fa39d3c74e50/writing.svg" height=16> Check out my [Blog](https://www.zainnasir.com/blog/)
