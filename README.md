@@ -1,6 +1,6 @@
 # Hello, I'm **[Zain Nasir](https://www.zainnasir.com/)** 👋
 
-I am a software developer with a Masters in CS (AI Track) from Binghamton University, currently working at Memorial Sloan Kettering. My expertise encompass machine learning and deep learning. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
+I am a software developer with a Masters in CS (AI Track) from Binghamton University, currently working at Memorial Sloan Kettering Cancer Center. My expertise encompass machine learning and deep learning. Check out my portfolio at [www.zainnasir.com](https://www.zainnasir.com/).
 
 #### <img src="https://raw.githubusercontent.com/zainasir/zainasir/6543f544ba02c466a4a459a2966d8a0c39fc4466/project-management.svg" height=20> My Latest Projects:
 - [Ball-following Turtlebot](https://github.com/zainasir/BallFollower): ROS project where a TurtleBot follows a red ball while maintaining a distance of 1 meter.
